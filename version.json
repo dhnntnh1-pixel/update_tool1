@@ -1,0 +1,7 @@
+{
+    "version": "1.1.10",
+    "download_url": "https://drive.google.com/uc?export=download&id=1NKNgXRwjyrZtuqqAwjmCPLwfLjcH0JNf",
+    "changelog": "- Th\u00eam ch\u1ee9c n\u0103ng N\u00e2ng H\u1ea1 X\u00f3a Admin BM (FB/MS/IG)\n- Th\u00eam N\u00e2ng quy\u1ec1n TKBM\n- S\u1eeda l\u1ed7i login Meta Suite\n- T\u1ed1i \u01b0u l\u1ea5y EAAI token\n- G\u1eedi Sheet ngay khi \u0111\u1ee7 link backup\n- B\u1ecf GetPageIGByScope\n- Nh\u1ea1c welcome m\u1edbi\n- S\u1eeda UI icon UID/Password",
+    "required": false,
+    "min_version": "1.0.0"
+}
