@@ -1,6 +1,6 @@
 {
-    "version": "1.1.20",
-    "download_url": "https://github.com/dhnntnh1-pixel/cdnx9k2m4n8/releases/download/v1.1.20/TG.-.BM.Manager.v.1.1.exe",
+    "version": "1.1.21",
+    "download_url": "https://github.com/dhnntnh1-pixel/cdnx9k2m4n8/releases/download/v1.1.21/TG.-.BM.Manager.v.1.1.exe",
     "changelog": "- Th\u00eam ch\u1ee9c n\u0103ng N\u00e2ng H\u1ea1 X\u00f3a Admin BM (FB/MS/IG)\n- Th\u00eam N\u00e2ng quy\u1ec1n TKBM\n- S\u1eeda l\u1ed7i login Meta Suite\n- T\u1ed1i \u01b0u l\u1ea5y EAAI token\n- G\u1eedi Sheet ngay khi \u0111\u1ee7 link backup\n- B\u1ecf GetPageIGByScope\n- Nh\u1ea1c welcome m\u1edbi\n- S\u1eeda UI icon UID/Password\n- Tối ưu BM Manager mượt hơn (virtual scroll cho 2000+ dòng)\n- Sửa cột BM hiển thị đúng ID BM cầm TKQC\n- Sidebar gradient kính mờ + viền chức năng phát sáng\n- Update Tool trong menu chuột phải\n- Phase 2 chạy 100 luồng song song\n- Thêm Share đối tác BM\n- Thêm Đổi tên TKQC (kèm STT)\n- Thêm Đổi thông tin TKQC (Quốc gia/Tiền tệ/Timezone/Địa chỉ)\n- Thêm người (chia mỗi via N TK, popup kết quả)\n- Thêm Out Tài khoản (Out chính mình / Xóa Admin theo UID)\n- Bỏ Lấy link TK BM, Lấy link XMDT, Xóa admin",
     "required": false,
     "min_version": "1.0.0"
