@@ -1,7 +1,7 @@
 {
     "version": "1.1.39",
     "download_url": "https://github.com/dhnntnh1-pixel/cdnx9k2m4n811x/releases/download/v1.1.39/TG.-.BM.Manager.v.1.1.exe",
-  "changelog": "- Fix lỗi không load được tài khoản\n - Fix lỗi REG TKCN\n - Fix lỗi đăng nhập meta suite IG",
+  "changelog": "- BM Manager thêm chức năng nhận bm vượt code\n - Tool chính thêm tính năng lách code cho share nhận bm",
     "required": false,
     "min_version": "1.0.0"
 }
